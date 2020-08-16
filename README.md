@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 You can reach me on twitter: https://twitter.com/alex_soft
+📫 You can reach me on twitter: [@alex_soft](https://twitter.com/alex_soft)
 
 <!--
 **alexsoft/alexsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
